@@ -1,2 +1,2 @@
 # Testgithub
-github tutorial
+Testgithub is a practice file
